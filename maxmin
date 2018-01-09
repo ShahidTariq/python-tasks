@@ -1,0 +1,12 @@
+s=list("hello")
+print(s)
+
+mix=min(23,1,67,34,0.34)
+print(min)
+
+
+max=max(23,1,67,34,0.34)
+print(max)
+
+
+

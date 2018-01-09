@@ -1,0 +1,14 @@
+s=list("hello")
+print(s)
+
+m=min(23,1,67,34,0.34)
+print(m)
+
+str="hell there my name is %s, i am from %s"
+vars=('shahid','srinagar')
+
+print(str % vars)
+
+
+
+
