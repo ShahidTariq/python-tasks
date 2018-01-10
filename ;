@@ -16,5 +16,3 @@ fruits={'apple':10,'banana':20,'orange':70}
 
 print(fruits)
 print(fruits.values())
-print(fruits.keys())
-
